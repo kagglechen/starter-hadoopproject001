@@ -1,0 +1,1 @@
+I am a starter, the project includes all of my stater-project about hadoop
