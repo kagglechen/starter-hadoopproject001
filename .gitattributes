@@ -1,0 +1,2 @@
+depict.txt filter=lfs diff=lfs merge=lfs -text
+sggHDFSclient filter=lfs diff=lfs merge=lfs -text
