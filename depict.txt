@@ -1,1 +1,3 @@
-I am a starter, the project includes all of my stater-project about hadoop
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ef4e31885bcbbe586ccecece1fa6d225d16fe2bedad8ea3f08a4cb383b4dd23
+size 75
